@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="519px" preserveAspectRatio="none" style="width:1430px;height:519px;" version="1.1" viewBox="0 0 1430 519" width="1430px" zoomAndPan="magnify"><defs><filter height="300%" id="f16zpczxzubzjc" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="279" x="581.5" y="16.708">Google OAuth Limited Devices</text><!--MD5=[ad4c83c7dcc2fc6a16796d32a33b4631]
+cluster Google--><polygon fill="#FFFFFF" filter="url(#f16zpczxzubzjc)" points="22,44.9531,84,44.9531,91,67.25,1408,67.25,1408,507.9531,22,507.9531,22,44.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="22" x2="91" y1="67.25" y2="67.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="56" x="26" y="59.9482">Google</text><!--MD5=[a7d00b13750247b39df6f1a416896be8]
+cluster OAuth--><polygon fill="#FFFFFF" filter="url(#f16zpczxzubzjc)" points="386,152.4531,443,152.4531,450,174.75,1063,174.75,1063,475.9531,386,475.9531,386,152.4531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="386" x2="450" y1="174.75" y2="174.75"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="51" x="390" y="167.4482">OAuth</text><!--MD5=[87cee1b9f8605858c34a154b505cc5ea]
+cluster Drive--><polygon fill="#FFFFFF" filter="url(#f16zpczxzubzjc)" points="1103,267.9531,1150,267.9531,1157,290.25,1376,290.25,1376,471.4531,1103,471.4531,1103,267.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="1103" x2="1157" y1="290.25" y2="290.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="1107" y="282.9482">Drive</text><!--MD5=[5d003b827e3355e7a22dfdb03603ba7e]
+entity dcu--><ellipse cx="114" cy="214.9531" fill="#FEFECE" filter="url(#f16zpczxzubzjc)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="136" x="46" y="244.9482">DisplayCodeAndUrl</text><!--MD5=[5533f5108e1ea2bb07d8c5a1491fd292]
+entity ols--><ellipse cx="292" cy="214.9531" fill="#FEFECE" filter="url(#f16zpczxzubzjc)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="119" x="232.5" y="244.9482">OnLoginSucceed</text><!--MD5=[d8322213e5f4465576b8bf70cd9bce59]
+entity s--><rect fill="#FEFECE" filter="url(#f16zpczxzubzjc)" height="39.2969" style="stroke: #000000; stroke-width: 1.5;" width="114" x="599" y="195.4531"/><polygon fill="#FEFECE" points="696,200.4531,696,214.4531,708,214.4531,708,206.4531,702,200.4531,696,200.4531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="702" x2="702" y1="200.4531" y2="206.4531"/><line style="stroke: #000000; stroke-width: 1.5;" x1="708" x2="702" y1="206.4531" y2="206.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="609" y="221.4482">secrets.xml</text><!--MD5=[4b87cf198718714399a8413bf2b29527]
+entity ol--><rect fill="#FEFECE" filter="url(#f16zpczxzubzjc)" height="36.2969" style="stroke: #A80036; stroke-width: 1.5;" width="59" x="626.5" y="310.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="621.5" y="315.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="621.5" y="337.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="39" x="636.5" y="333.9482">Login</text><!--MD5=[2afa54bffb6da7329eac304e2c51f3d6]
+entity cr--><rect fill="#FEFECE" filter="url(#f16zpczxzubzjc)" height="36.2969" style="stroke: #A80036; stroke-width: 1.5;" width="123" x="915.5" y="411.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="910.5" y="416.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="910.5" y="437.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="103" x="925.5" y="434.4482">CodesRequest</text><!--MD5=[c54e944a8b9f8e628ad43a9a38d2aca6]
+entity tp--><rect fill="#FEFECE" filter="url(#f16zpczxzubzjc)" height="36.2969" style="stroke: #A80036; stroke-width: 1.5;" width="98" x="782" y="411.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="777" y="416.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="777" y="437.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="78" x="792" y="434.4482">TokensPoll</text><!--MD5=[edc2c29f12934937e9dee71e2d189b28]
+entity tr--><rect fill="#FEFECE" filter="url(#f16zpczxzubzjc)" height="36.2969" style="stroke: #A80036; stroke-width: 1.5;" width="128" x="418" y="411.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="413" y="416.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="413" y="437.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="428" y="434.4482">TokensRefresh</text><!--MD5=[a9d198bd5c1c9d64f3f6943bebfbf470]
+entity as--><path d="M581.5,416.9531 C581.5,406.9531 664,406.9531 664,406.9531 C664,406.9531 746.5,406.9531 746.5,416.9531 L746.5,442.25 C746.5,452.25 664,452.25 664,452.25 C664,452.25 581.5,452.25 581.5,442.25 L581.5,416.9531 " fill="#FEFECE" filter="url(#f16zpczxzubzjc)" style="stroke: #000000; stroke-width: 1.5;"/><path d="M581.5,416.9531 C581.5,426.9531 664,426.9531 664,426.9531 C664,426.9531 746.5,426.9531 746.5,416.9531 " fill="none" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="145" x="591.5" y="443.9482">Application.Storage</text><!--MD5=[1c5ba14a582780a0070707c3598231a5]
+entity ac--><rect fill="#FEFECE" filter="url(#f16zpczxzubzjc)" height="39.2969" style="stroke: #000000; stroke-width: 1.5;" width="119" x="833.5" y="195.4531"/><polygon fill="#FEFECE" points="935.5,200.4531,935.5,214.4531,947.5,214.4531,947.5,206.4531,941.5,200.4531,935.5,200.4531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="941.5" x2="941.5" y1="200.4531" y2="206.4531"/><line style="stroke: #000000; stroke-width: 1.5;" x1="947.5" x2="941.5" y1="206.4531" y2="206.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="89" x="843.5" y="221.4482">access_code</text><!--MD5=[011db1d27274c86691871bc51b12beb8]
+entity d--><rect fill="#FEFECE" filter="url(#f16zpczxzubzjc)" height="36.2969" style="stroke: #A80036; stroke-width: 1.5;" width="58" x="1212" y="310.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1207" y="315.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1207" y="337.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="38" x="1222" y="333.9482">Drive</text><!--MD5=[3106d6351c1a4d381cadc62596eaa276]
+entity fl--><rect fill="#FEFECE" filter="url(#f16zpczxzubzjc)" height="36.2969" style="stroke: #A80036; stroke-width: 1.5;" width="86" x="1135" y="411.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1130" y="416.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1130" y="437.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="66" x="1145" y="434.4482">FileLister</text><!--MD5=[c326229a2ffeb98b28a0dba81c32a3dd]
+entity fr--><rect fill="#FEFECE" filter="url(#f16zpczxzubzjc)" height="36.2969" style="stroke: #A80036; stroke-width: 1.5;" width="96" x="1256" y="411.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1251" y="416.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1251" y="437.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="76" x="1266" y="434.4482">FileReader</text><!--MD5=[a1d9ff28796c31a0ae692d0440a1fbd8]
+entity gos--><path d="M313.0345,88.2986 C316.62,83.6304 320.1339,82.4893 323.9044,88.103 C328.0842,81.9447 333.5067,83.3829 336.8798,88.9924 C339.73,83.5406 343.7682,82.9451 347.4484,88.1708 C350.4847,82.1971 356.1941,81.0814 360.2508,87.0796 C364.1894,82.313 367.5959,83.0517 371.0657,87.6225 C374.4357,80.281 379.4662,80.5482 384.1761,86.2786 C387.5554,81.4944 391.3149,81.9454 394.584,86.4027 C398.346,81.1534 401.8959,80.3573 406.5017,85.4281 C410.3189,79.8804 415.3588,79.2983 419.0282,85.5845 C423.0261,81.2304 427.4231,82.7026 429.5827,87.6666 C433.3454,81.812 439.6379,81.1083 442.7758,88.2985 C446.6612,83.7785 450.1563,83.575 453.2216,89.1474 C457.2362,83.881 461.7717,84.28 465.3993,89.593 C468.5667,83.8101 473.2325,84.5977 476.6045,89.3759 C488.3555,88.2934 491.7504,95.265 487.7929,105.2525 C491.0995,114.6014 488.8597,119.1417 478.3425,118.9599 C476.038,125.8078 470.0292,125.4144 466.4154,120.2612 C464.5658,127.2424 458.2424,128.6971 453.7136,122.9307 C449.9923,128.2785 445.5307,127.3772 442.3673,122.3222 C439.6935,128.9673 434.4752,131.0749 429.3752,124.7531 C426.5677,129.4354 422.7422,129.6487 419.1934,125.6195 C416.3881,132.4353 410.3824,132.8559 405.9428,127.3816 C403.3023,132.7535 399.1552,132.6733 395.2847,128.7994 C390.4463,132.4053 386.2656,132.2487 383.9777,125.9019 C379.9087,131.1272 375.3798,132.3304 371.5362,125.666 C367.3328,130.9451 363.1758,129.4803 360.8054,123.8611 C355.5131,129.9601 351.4649,129.7682 347.6379,122.4257 C344.1991,127.8905 339.9768,126.1626 337.2762,121.6585 C331.796,126.6368 327.4527,127.0794 323.9589,119.5444 C320.2781,124.7247 314.6316,124.9766 311.5777,118.8575 C304.133,116.119 302.5374,110.6925 307.3874,104.3925 C302.2722,96.8862 302.7525,90.4022 313.0345,88.2986 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="151" x="318.5" y="107.9482">Google OAuth Server</text><!--MD5=[41cc068d2e90f3f200af89c74a2c56fc]
+entity gdc--><path d="M1096.7263,200.3936 C1101.0892,194.2517 1105.2296,195.2663 1109.0022,201.0036 C1112.9516,194.0722 1117.0469,194.4735 1121.8493,200.1333 C1125.5588,194.9074 1129.9529,194.0059 1133.5807,200.217 C1137.3732,193.3551 1142.3033,191.6982 1147.7819,198.4593 C1151.6586,193.1918 1155.0554,193.6001 1158.6356,198.7677 C1161.864,191.9315 1168.3066,192.0272 1172.2557,198.0014 C1176.0219,192.1352 1180.9166,192.2988 1184.4723,198.2195 C1188.9562,191.855 1194.4517,193.0073 1198.343,198.8906 C1201.3572,193.2683 1206.8947,194.6518 1209.5837,199.2483 C1213.8238,192.9575 1220.1574,194.0222 1222.97,200.7195 C1226.3871,194.541 1232.2609,195.7571 1235.11,201.3075 C1238.882,194.4773 1243.7241,194.7767 1248.3489,200.4009 C1256.1969,203.8252 1258.1494,210.4698 1251.7145,216.8215 C1257.864,223.0777 1254.3766,229.5821 1246.9623,231.4243 C1244.1391,238.2488 1239.2422,238.4951 1234.3613,233.6454 C1230.8329,239.1736 1226.1148,239.2835 1222.0067,234.3285 C1219.7504,241.9037 1213.8048,241.6566 1208.9207,237.1823 C1205.7293,243.9346 1200.8388,244.1488 1196.8281,237.9472 C1193.8431,243.7258 1188.027,245.6898 1183.8253,239.241 C1181.4301,245.9489 1178.0609,246.4243 1173.0147,241.7615 C1167.2236,248.7636 1162.6987,247.4451 1158.6104,240.0571 C1154.5356,245.3838 1149.6973,244.4178 1147.4651,238.2677 C1142.584,243.6595 1138.6752,244.2167 1135.049,237.0291 C1129.5796,243.863 1124.6988,241.7136 1121.1256,235.0701 C1116.7888,240.2491 1112.3253,239.3022 1109.123,233.7957 C1105.3215,238.2215 1099.6708,237.8577 1097.2653,232.1604 C1087.1704,230.7539 1083.7597,225.4817 1089.0488,216.1703 C1084.0463,208.4326 1086.0257,200.4896 1096.7263,200.3936 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="137" x="1102.5" y="219.9482">Google Drive Cloud</text><!--MD5=[a67c076fa297a148d553710dac9dafb1]
+reverse link dcu to ol--><path d="M132.778,222.2561 C151.447,228.3681 180.978,237.6211 207,243.9531 C363.422,282.0161 554.1,312.5321 626.347,323.5371 " fill="none" id="dcu&lt;-ol" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M123.4129,228.0623 A9,9 0 0 0 128.7312 212.0057" fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><!--MD5=[5ebc31417bd828bcdafb7e03967a5c89]
+reverse link ols to ol--><path d="M310.522,222.1101 C327.914,227.8611 354.676,236.6331 378,243.9531 C468.198,272.2601 575.401,304.1631 626.313,319.2091 " fill="none" id="ols&lt;-ol" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M301.278,227.9554 A9,9 0 0 0 306.6015 211.9005" fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><!--MD5=[728532a43a7d247e970d659b085b8d91]
+reverse link s to ol--><path d="M656,239.8871 C656,261.1291 656,291.6551 656,310.6201 " fill="none" id="s&lt;-ol" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="656,234.6991,652,243.6991,656,239.6991,660,243.6991,656,234.6991" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1ff71ee63ab6983ffdb300a93798278c]
+reverse link ac to ol--><path d="M848.792,236.8451 C801.196,259.3371 726.799,294.4951 685.731,313.9031 " fill="none" id="ac&lt;-ol" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="853.598,234.5731,843.7518,234.8002,849.077,236.7086,847.1686,242.0339,853.598,234.5731" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[20b4e7967d372b6e725fcfd463933ea3]
+link ol to cr--><path d="M685.624,339.0431 C737.915,355.0891 847.556,388.7331 916.428,409.8661 " fill="none" id="ol-&gt;cr" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="921.315,411.3661,913.8848,404.9014,916.5351,409.899,911.5375,412.5492,921.315,411.3661" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[b77a0b80ec19d4966893324d8c3f8ad3]
+link ol to tp--><path d="M685.686,346.6621 C716.172,363.8211 763.606,390.5201 795.925,408.7111 " fill="none" id="ol-&gt;tp" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="800.58,411.3311,794.6996,403.4305,796.223,408.8783,790.7751,410.4017,800.58,411.3311" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6ccc018ae484de89d893c4664f3b5072]
+link ol to tr--><path d="M626.483,346.6621 C596.171,363.8211 549.009,390.5201 516.875,408.7111 " fill="none" id="ol-&gt;tr" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="512.246,411.3311,522.0484,410.3753,516.5964,408.8666,518.1051,403.4147,512.246,411.3311" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c13d45e43875f5d804d0762569e311f2]
+reverse link as to tp--><path d="M751.763,429.4531 C761.785,429.4531 771.808,429.4531 781.831,429.4531 " fill="none" id="as&lt;-tp" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="746.521,429.4531,755.521,433.4531,751.521,429.4531,755.521,425.4531,746.521,429.4531" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6131f7fac94d080f26a78551c2e96dd8]
+link tr to as--><path d="M546.34,429.4531 C556.255,429.4531 566.17,429.4531 576.085,429.4531 " fill="none" id="tr-&gt;as" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="581.27,429.4531,572.27,425.4531,576.27,429.4531,572.27,433.4531,581.27,429.4531" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c3d7a74a08beb7eca51c9286692ccec9]
+link d to fl--><path d="M1230.03,347.1101 C1219.43,363.6751 1203.35,388.8201 1191.87,406.7641 " fill="none" id="d-&gt;fl" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1189.06,411.1621,1197.278,405.7339,1191.7532,406.9495,1190.5377,401.4248,1189.06,411.1621" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6217acbc8a0ef09e2a2567293c36b40b]
+link d to fr--><path d="M1251.97,347.1101 C1262.57,363.6751 1278.65,388.8201 1290.13,406.7641 " fill="none" id="d-&gt;fr" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1292.94,411.1621,1291.4623,401.4248,1290.2468,406.9495,1284.722,405.7339,1292.94,411.1621" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f0ad6887e37242b6f1fd579d547d201e]
+reverse link ac to Drive--><path d="M934.122,236.5871 C941.271,239.4871 948.744,242.1051 956,243.9531 C977.389,249.4011 1035.72,241.2131 1055,251.9531 C1072.755,261.8426 1086.4475,279.9826 1095.8475,296.0603 C1098.1975,300.0797 1100.2792,303.9702 1102.0891,307.5706 C1102.3153,308.0207 1102.5373,308.4662 1102.755,308.9069 C1102.8094,309.0171 1102.8636,309.1269 1102.9175,309.2365 " fill="none" id="ac&lt;-Drive" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="929.231,234.5411,935.9897,241.7049,933.8435,236.471,939.0775,234.3249,929.231,234.5411" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4f80f1c52c62b9313a010c8f4e15cc41]
+reverse link gos to OAuth--><path d="M394,131.5071 C394,135.4456 394,139.6366 394,143.9615 C394,146.1239 394,148.3198 394,150.5343 C394,151.088 394,151.6428 394,152.1985 " fill="none" id="gos&lt;-OAuth" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="394,126.2131,390,135.2131,394,131.2131,398,135.2131,394,126.2131" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ae43fbb477771269c35a6bfda4b6ca74]
+reverse link gdc to Drive--><path d="M1127.08,241.6331 C1123.98,244.7801 1121.21,248.2191 1119,251.9531 C1116.9025,255.4911 1115.1956,259.2867 1113.8155,263.2256 C1113.4705,264.2103 1113.1459,265.204 1112.8407,266.2049 C1112.6881,266.7053 1112.5404,267.2075 1112.3974,267.7113 " fill="none" id="gdc&lt;-Drive" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1130.86,238.0741,1121.566,241.3332,1127.2203,241.5024,1127.0512,247.1567,1130.86,238.0741" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c0c3e6b8a36ff88751af3367efcf8b6d]
+@startuml
+title Google OAuth Limited Devices
+
+package "Google" {
+
+interface "DisplayCodeAndUrl" as dcu
+interface "OnLoginSucceed" as ols
+
+package "OAuth" {
+    
+    artifact "secrets.xml" as s
+    
+    component "Login" as ol
+    component "CodesRequest" as cr
+    component "TokensPoll" as tp
+    component "TokensRefresh" as tr
+    
+    database "Application.Storage" as as
+
+    artifact "access_code" as ac
+
+ol -up-( dcu
+ol -up-( ols
+    
+ol -up-> s
+ol -up-> ac
+
+ol -down-> cr
+ol -down-> tp
+ol -down-> tr
+
+tp -left-> as
+tr -right-> as
+
+}
+
+package "Drive" {
+
+    component "Drive" as d
+    component "FileLister" as fl
+    component "FileReader" as fr
+
+    d -down-> fl
+    d -down-> fr
+
+    Drive -up-> ac
+
+}
+
+cloud "Google OAuth Server" as gos {
+}
+
+cloud "Google Drive Cloud" as gdc {
+}
+
+OAuth -up-> gos
+
+Drive -up-> gdc
+
+}
+@enduml
+
+PlantUML version 1.2020.09(Sun May 10 10:51:06 UTC 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 14.0.1+7
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

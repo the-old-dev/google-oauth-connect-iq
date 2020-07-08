@@ -1,0 +1,63 @@
+@startuml
+
+title Google OAuth Limited Devices
+
+package "Google" {
+
+interface "DisplayCodeAndUrl" as dcu
+interface "OnLoginSucceed" as ols
+
+package "OAuth" {
+    
+    artifact "secrets.xml" as s
+    
+    component "Login" as ol
+    component "CodesRequest" as cr
+    component "TokensPoll" as tp
+    component "TokensRefresh" as tr
+    
+    database "Application.Storage" as as
+
+    artifact "access_code" as ac
+
+ol -up-( dcu
+ol -up-( ols
+    
+ol -up-> s
+ol -up-> ac
+
+ol -down-> cr
+ol -down-> tp
+ol -down-> tr
+
+tp -left-> as
+tr -right-> as
+
+}
+
+package "Drive" {
+
+    component "Drive" as d
+    component "FileLister" as fl
+    component "FileReader" as fr
+
+    d -down-> fl
+    d -down-> fr
+
+    Drive -up-> ac
+
+}
+
+cloud "Google OAuth Server" as gos {
+}
+
+cloud "Google Drive Cloud" as gdc {
+}
+
+OAuth -up-> gos
+
+Drive -up-> gdc
+
+}
+
+@enduml
